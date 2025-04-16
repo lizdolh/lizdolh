@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lizdolh or Liz
-- 👀 I’m interested in Data Science, Data Analytics, ML, and Project Management (unrelated)
+- 👀 I’m interested in Data Science, Data Analytics, ML, and Project Management
 - 🌱 I’m currently learning Computer Science (undergrad), Python, R, SQL, viz and more
 - 💞️ I’m looking to collaborate on Data Science and Data Analytics projects
 - 📫 How to reach me: liza.dolh@gmail.com
